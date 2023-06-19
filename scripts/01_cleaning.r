@@ -2,9 +2,7 @@
 
 # libs
 library(here)
-library(glue)
 library(tidyverse)
-library(DT)
 library(assertthat)
 
 source(here("src/functions", "project_function.r"))
