@@ -36,7 +36,7 @@ This is a template repository that aims to codify my workflow and incorporates b
   - If it's a matrix, use a matrix
 
 ## Files and folder structure
-
+```
 TEMPLATE
 |-- data/ # gitignored
 |  `-- example.csv
@@ -68,3 +68,4 @@ TEMPLATE
 |-- .gitignore
 |-- .Rprofile
 `-- renv.lock
+```
