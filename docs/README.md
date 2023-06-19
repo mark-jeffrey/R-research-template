@@ -48,7 +48,6 @@ TEMPLATE
 |  |-- .gitignore
 |  |-- activate.R
 |  `-- settings.json
-|-- renv.lock
 |-- results/ # gitignored
 |   |-- plots
 |   |-- rdata
